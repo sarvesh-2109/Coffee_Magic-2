@@ -26,3 +26,9 @@ The project follows an object-oriented approach, where the functionality is divi
 2. Run the `main.py` script to start the Coffee Machine simulation.
 3. Follow the prompts to choose drinks, check resources, and make payments.
 
+## **Contributions**
+Contributions to this project are welcome! If you find any issues or want to add new features, feel free to create a pull request.
+
+## **Credits**
+This project is inspired by the Coffee Machine project from the "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course on Udemy.
+
