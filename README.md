@@ -30,5 +30,5 @@ The project follows an object-oriented approach, where the functionality is divi
 Contributions to this project are welcome! If you find any issues or want to add new features, feel free to create a pull request.
 
 ## **Credits**
-This project is inspired by the Coffee Machine project from the "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course on Udemy.
+This project is inspired by the Coffee Machine project from the "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course on Udemy.
 
